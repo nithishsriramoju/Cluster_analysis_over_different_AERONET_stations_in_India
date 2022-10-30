@@ -62,7 +62,7 @@ for i in range(len(ll)):
 
 plt.show()
 
-############# Principle Component Analysis & Visualization 2D ##################################################
+############# Principle Component Analysis & Visualization 2D #################################################
 
 plt.figure()
 
