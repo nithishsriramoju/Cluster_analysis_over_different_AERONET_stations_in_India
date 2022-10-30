@@ -46,21 +46,21 @@ predictions_kmeans = kmeans.predict(data)
 
 ############ Principle Component Analysis & Visualization 3D ##################################
 
-# pca = PCA(n_components=3)
-# ll = pca.fit_transform(data)
+pca = PCA(n_components=3)
+ll = pca.fit_transform(data)
 
-# fig = plt.figure()
-# ax = Axes3D(fig)
+fig = plt.figure()
+ax = Axes3D(fig)
 
-# for i in range(len(ll)):
-#         if predictions_kmeans[i]==0:
-#             ax.scatter3D(ll[i,0],ll[i,1],ll[i,2],c='r')
-#         elif predictions_kmeans[i]==1:
-#             ax.scatter3D(ll[i,0],ll[i,1],ll[i,2],c='b')
-#         else:
-#             ax.scatter3D(ll[i,0],ll[i,1],ll[i,2],c='g')
+for i in range(len(ll)):
+        if predictions_kmeans[i]==0:
+            ax.scatter3D(ll[i,0],ll[i,1],ll[i,2],c='r')
+        elif predictions_kmeans[i]==1:
+            ax.scatter3D(ll[i,0],ll[i,1],ll[i,2],c='b')
+        else:
+            ax.scatter3D(ll[i,0],ll[i,1],ll[i,2],c='g')
 
-# plt.show()
+plt.show()
 
 ############# Principle Component Analysis & Visualization 2D ##################################################
 
