@@ -1,5 +1,7 @@
 # Cluster_analysis_over_different_AERONET_stations_in_India
 
+#### This project aims to perform aerosol cluster analysis using machine learning techniques 
+
 ##### Data from five different AERONET stations in India are used. Stations are Kanpur, Jaipur, Pune, Gandhi College, Gual Pahari.
 
 ##### AERONET data downloaded from https://aeronet.gsfc.nasa.gov/cgi-bin/webtool_aod_v3?stage=2&region=Asia&state=India and Used data is level 2 Version 3 
