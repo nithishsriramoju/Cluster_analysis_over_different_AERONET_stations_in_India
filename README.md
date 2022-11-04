@@ -12,7 +12,7 @@
 
 ##### We performed different evaluation parametrics to optimize our no.of clusters. Silhouette Score, Calinski Harabasz Score, Davies–Bouldin index, and Distortion score.
 
-##### Data is then clustered using K-Means algorithm and then validated with SOM clustering algorithm.
+##### Data is then clustered using K-Means algorithm and then compared with SOM clustering algorithm.
 
 ##### All clusters are then checked if they are clustered clearly by visualizing them in 2-D and 3-D using Principal Component Analysis (PCA).
 
