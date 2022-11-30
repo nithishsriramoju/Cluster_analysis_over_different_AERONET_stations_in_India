@@ -4,7 +4,7 @@
 
 ##### Data from five different AERONET stations in India are used. Stations are Kanpur, Jaipur, Pune, Gandhi College, Gual Pahari.
 
-![image](https://user-images.githubusercontent.com/116994415/204876053-bd0cb5f5-3f74-4320-8d8a-c0b3f175d15b.png=250x250)
+![image](https://user-images.githubusercontent.com/116994415/204876053-bd0cb5f5-3f74-4320-8d8a-c0b3f175d15b.png =500x500)
 
 
 ##### AERONET data downloaded from [AERONET webiste](https://aeronet.gsfc.nasa.gov/cgi-bin/webtool_aod_v3?stage=2&region=Asia&state=India) and Used data is level 2 Version 3 
@@ -14,7 +14,7 @@
 ##### Data is standardized by transforming [min,max] to [0,1] for each feature of aerosol.
 
 ##### We performed different evaluation parametrics to optimize our no.of clusters. Silhouette Score, Calinski Harabasz Score, Davies–Bouldin index, and Distortion score.
-![optimum_clusters](https://user-images.githubusercontent.com/116994415/204875502-769468ab-0947-4536-a899-7ba8bb625d6e.png=250x250)
+![optimum_clusters](https://user-images.githubusercontent.com/116994415/204875502-769468ab-0947-4536-a899-7ba8bb625d6e.png =500x500)
 
 ##### Data is then clustered using K-Means algorithm and then compared with SOM clustering algorithm.
 
