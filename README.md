@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/116994415/204876053-bd0cb5f5-3f74-4320-8d8a-c0b3f175d15b.png=500x500)
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/116994415/204876053-bd0cb5f5-3f74-4320-8d8a-c0b3f175d15b.png)" width="100" height="100">
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/116994415/204876053-bd0cb5f5-3f74-4320-8d8a-c0b3f175d15b.png)" width="500" height="500">
 
 
 ##### AERONET data downloaded from [AERONET webiste](https://aeronet.gsfc.nasa.gov/cgi-bin/webtool_aod_v3?stage=2&region=Asia&state=India) and Used data is level 2 Version 3 
