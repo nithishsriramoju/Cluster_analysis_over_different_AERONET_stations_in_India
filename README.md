@@ -13,7 +13,8 @@
 ##### Data is standardized by transforming [min,max] to [0,1] for each feature of aerosol.
 
 ##### We performed different evaluation parametrics to optimize our no.of clusters. Silhouette Score, Calinski Harabasz Score, Davies–Bouldin index, and Distortion score.
-![optimum_clusters](https://user-images.githubusercontent.com/116994415/204875502-769468ab-0947-4536-a899-7ba8bb625d6e.png=500x500)
+
+<img src="https://user-images.githubusercontent.com/116994415/204875502-769468ab-0947-4536-a899-7ba8bb625d6e.png" width="500" height="500">
 
 ##### Data is then clustered using K-Means algorithm and then compared with SOM clustering algorithm.
 
