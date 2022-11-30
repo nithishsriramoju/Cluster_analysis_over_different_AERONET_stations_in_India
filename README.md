@@ -4,6 +4,9 @@
 
 ##### Data from five different AERONET stations in India are used. Stations are Kanpur, Jaipur, Pune, Gandhi College, Gual Pahari.
 
+![image](https://user-images.githubusercontent.com/116994415/204876053-bd0cb5f5-3f74-4320-8d8a-c0b3f175d15b.png)
+
+
 ##### AERONET data downloaded from [AERONET webiste](https://aeronet.gsfc.nasa.gov/cgi-bin/webtool_aod_v3?stage=2&region=Asia&state=India) and Used data is level 2 Version 3 
 
 ##### All five stations data is appended and then screened and filtered using different techniques mentioned in [Omar,A.H.et al.,2005](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2004JD004874) 
